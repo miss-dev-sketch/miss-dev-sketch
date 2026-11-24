@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Perkenalkan nama saya **Marsyella Tirta Gunawan**. <br>
+Saya sekarang sedang mengikuti bootcamp Dicoding
+
+
 <!--
 **miss-dev-sketch/miss-dev-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
